@@ -1,1 +1,6 @@
 # Bus-Reservation-System
+Functionalities added:
+1.BOOK SEAT
+2.DISPLAY ALL RESERVATIONS
+3.CHECK RESERVATION
+4.CANCEL RESERVATION
